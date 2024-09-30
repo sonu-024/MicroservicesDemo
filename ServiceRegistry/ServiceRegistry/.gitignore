@@ -31,7 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-### Apache Jmeter library ###
-*/apache-jmeter-5.6.3/*
-*/apache-jmeter-5.6.3_src/*
